@@ -1,0 +1,61 @@
+{
+  "user": {
+    "firstName": "Staging"
+  },
+  "stories": [
+    {
+      "id": "testStory1",
+      "previewURI": "https://placeimg.com/376/649/tech",
+      "items": [
+        {
+          "uri": "testVideo.mp4"
+        },
+        {
+          "uri": "testVideo.mp4"
+        },
+        {
+          "uri": "testVideo.mp4"
+        },
+        {
+          "uri": "testVideo.mp4"
+        }
+      ]
+    },
+    {
+      "id": "testStory2",
+      "previewURI": "https://placeimg.com/376/649/arch",
+      "items": [
+        {
+          "uri": "testVideo.mp4"
+        }
+      ]
+    }
+  ],
+  "storyIndex": {
+    "index": "0"
+  },
+  "posts": [
+    {
+      "title": "Leverage agile frameworks to provide a robust synopsis for high level overviews.",
+      "imageURI": "https://placeimg.com/380/380/nature",
+      "content": "Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.",
+      "author": {
+        "avatarURI": "https://placeimg.com/200/200/people",
+        "name": "Victoria Harman",
+        "affiliation": "Formula Gray",
+        "location": "Westchester, IL"
+      }
+    },
+    {
+      "title": "It's an oldie where I come from. But your kids are gonna love it.",
+      "imageURI": "https://placeimg.com/760/760/nature",
+      "content": "Shape up, man. You're a slacker. You wanna be a slacker for the rest of your life? See, there's Biff out there waxing it right now. Now, Biff, I wanna make sure that we get two coats of wax this time, not just one. Without any sugar. Wait a minute, wait a minute, Doc, are you telling me that you built a time machine out of a delorean. Right, George. Well, good luck you guys. Oh, one other thing, if you guys ever have kids and one of them when he's eight years old, accidentally sets fire to the living room rug, be easy on him.",
+      "author": {
+        "avatarURI": "https://placeimg.com/100/100/people",
+        "name": "Donald M Sterling, RN - SVP",
+        "affiliation": "New World Health",
+        "location": "Hastings Point, NSW"
+      }
+    }
+  ]
+}
