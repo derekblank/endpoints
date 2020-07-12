@@ -1,0 +1,61 @@
+{
+  "user": {
+    "firstName": "Staging"
+  },
+  "stories": [
+    {
+      "id": "testStory1",
+      "previewURI": "https://www.veritystream.com/assets/images/veritystream-footer.svg",
+      "items": [
+        {
+          "uri": "testVideo.mp4"
+        },
+        {
+          "uri": "testVideo.mp4"
+        },
+        {
+          "uri": "testVideo.mp4"
+        },
+        {
+          "uri": "testVideo.mp4"
+        }
+      ]
+    },
+    {
+      "id": "testStory2",
+      "previewURI": "https://www.veritystream.com/assets/images/veritystream-footer.svg",
+      "items": [
+        {
+          "uri": "testVideo.mp4"
+        }
+      ]
+    }
+  ],
+  "storyIndex": {
+    "index": "0"
+  },
+  "posts": [
+    {
+      "title": "How do you de-stress and revitalize yourself at the end of a hard day?",
+      "imageURI": "https://www.veritystream.com/assets/images/veritystream-footer.svg",
+      "content": "I put on music and think about the family I love that\"s waiting at home for me. I\"ve retrained my brain to treat the commute as time to de-stress and prepare to rejoin my family.",
+      "author": {
+        "avatarURI": "https://www.veritystream.com/assets/images/veritystream-footer.svg",
+        "name": "Trish Celano, RN - SVP",
+        "affiliation": "AventHealth",
+        "location": "Nashville, TN"
+      }
+    },
+    {
+      "title": "How do you de-stress and revitalize yourself at the end of a hard day?",
+      "imageURI": "https://www.veritystream.com/assets/images/veritystream-footer.svg",
+      "content": "I put on music and think about the family I love that\"s waiting at home for me. I\"ve retrained my brain to treat the commute as time to de-stress and prepare to rejoin my family.",
+      "author": {
+        "avatarURI": "https://www.veritystream.com/assets/images/veritystream-footer.svg",
+        "name": "Trish Celano, RN - SVP",
+        "affiliation": "AventHealth",
+        "location": "Nashville, TN"
+      }
+    }
+  ]
+}
